@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">BMI</string>
+    <string name="edit_message">Digite seu peso</string>
+    <string name="edit_message2">Digite sua altura</string>
+    <string name="button_send">Processar</string>
 </resources>
